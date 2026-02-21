@@ -13,7 +13,7 @@ A solução contempla ingestão de dados em Lakehouse, transformação seguindo 
 - Construir pipeline end-to-end
 - Aplicar boas práticas de Engenharia de Dados
 - Implementar arquitetura Medallion
-- Dashboard com KPIs estratégicos
+- Desenvolver dashboard analítico para visualização de insights
 - Versionar e documentar o projeto
 - Criar um case técnico para portfólio
 
