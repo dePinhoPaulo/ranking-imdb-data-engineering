@@ -6,6 +6,10 @@
   },
   "config": {
     "version": "2.0",
+<<<<<<< HEAD
     "logicalId": "ea813249-535f-a371-4c0f-8b2b1a8f3523"
+=======
+    "logicalId": "24bc5746-44da-9a8b-43e9-77da9d14d04f"
+>>>>>>> dev
   }
 }
